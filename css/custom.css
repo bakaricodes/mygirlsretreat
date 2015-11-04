@@ -1,0 +1,9 @@
+.row .contact-form {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+button.btn.tf-btn.btn-default {
+    float: none;
+}
+
